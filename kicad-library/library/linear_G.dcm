@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UC3906
+D Sealed Lead-Acid Battery Charger
+K LINEAR, BATTERY
+$ENDCMP
+#
+#End Doc Library

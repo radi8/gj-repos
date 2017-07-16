@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_nano
+D Arduino mini component
+K arduino mini
+F /home/gvj/Kicad/modules/footprints_doc/arduino-readme.txt
+$ENDCMP
+#
+$CMP arduino_mini
+D Arduino mini component
+K arduino mini
+F /home/gvj/Kicad/modules/footprints_doc/arduino-readme.txt
+$ENDCMP
+#
+#End Doc Library
