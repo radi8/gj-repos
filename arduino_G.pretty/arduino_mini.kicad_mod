@@ -1,7 +1,7 @@
 (module arduino_mini (layer F.Cu) (tedit 507C2E55)
   (descr "30 pins DIL package, elliptical pads, width 600mil (arduino mini)")
   (tags "DIL arduino mini")
-  (fp_text reference U3 (at -13.97 -3.81) (layer F.SilkS)
+  (fp_text reference U2 (at -13.97 -3.81) (layer F.SilkS)
     (effects (font (size 1.778 1.778) (thickness 0.3048)))
   )
   (fp_text value arduino_mini (at -0.635 3.175) (layer F.SilkS)
@@ -44,7 +44,7 @@
   (pad 28 thru_hole oval (at -13.97 -7.62) (size 1.5748 2.286) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 29 thru_hole oval (at -16.51 -7.62) (size 1.5748 2.286) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 30 thru_hole oval (at -19.05 -7.62) (size 1.5748 2.286) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model /home/gvj/Kicad/modules.pretty/arduino.pretty/arduino_nano.wrl
+  (model /home/gvj/kicad_sources/gj-repos/kicad-library/modules/packages3d/arduino_G.3dshapes/arduino_nano.wrl
     (at (xyz -0.978 -0.385 -0.15))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

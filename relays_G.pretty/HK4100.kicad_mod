@@ -1,5 +1,5 @@
 (module HK4100 (layer F.Cu) (tedit 57449CBE)
-  (fp_text reference K? (at 1.27 -2.794) (layer F.SilkS)
+  (fp_text reference K1 (at 1.27 -2.794) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_text value HK4100 (at 0.762 0.254) (layer F.SilkS)
@@ -19,7 +19,7 @@
   (pad 4 thru_hole circle (at 6.35 -3.81) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at -6.35 -3.81) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at -3.81 -3.81) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
-  (model /home/gvj/KicadLibrarys/packages3d/relays_G/relay_V23101-D0.wrl
+  (model /home/gvj/kicad_sources/gj-repos/kicad-library/modules/packages3d/relays_G/relay_V23101-D0.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 270))
